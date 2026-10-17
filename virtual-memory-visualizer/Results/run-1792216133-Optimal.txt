@@ -1,0 +1,6 @@
+VMV-RESULT v1
+algorithm=Optimal
+frames=13
+hits=7
+faults=6
+references=7,0,1,2,0,3,0,4,2,3,0,3,2
